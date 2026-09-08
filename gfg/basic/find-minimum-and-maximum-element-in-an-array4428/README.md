@@ -30,7 +30,7 @@ Explanation: minimum and maximum element of array are 3 and 15.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-08T10:04:38.546Z  
+**Submitted:** 2026-09-08T10:05:31.642Z  
 
 ```java
 class Solution {
